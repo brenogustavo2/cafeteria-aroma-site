@@ -3,6 +3,22 @@
 /* Importação de fontes do Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Playfair+Display:wght@400;700&display=swap');
 
+.bg-brown {
+  background-color: #5C3A21;
+  /* um tom marrom */
+}
+
+.btn-brown {
+  background-color: #5C3A21;
+  color: white;
+  border: none;
+}
+
+.btn-brown:hover {
+  background-color: #4b2f19;
+  color: white;
+}
+
 /* Variáveis CSS para cores */
 :root {
   --brown-primary: #8B4513;
